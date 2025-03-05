@@ -24,10 +24,10 @@
 </p>  
 
 🔸 **LeetCode Progress:**  
-![LeetCode Stats](https://leetcode.com/u/Ruthikareck/?theme=dark&font=Montserrat&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-Ruthikareck?theme=dark&font=Montserrat&ext=heatmap)  
 
 🔹 **Profile Views:**  
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=Ruthikaj&color=blue&style=flat-square)  
 
 ---
 
