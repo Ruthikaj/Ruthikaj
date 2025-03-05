@@ -19,18 +19,18 @@
 ## 📊 GitHub & LeetCode Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-Ruthikaj&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-Ruthikaj&show_icons=true&theme=radical" height="180" />
 </p>  
 
 🔸 **LeetCode Progress:**  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Montserrat&ext=heatmap" height="200">
+  <img src="https://leetcard.jacoblin.cool/your-leetcode-Ruthikareck?theme=dark&font=Montserrat&ext=heatmap" height="200">
 </p>
 
 🔹 **Profile Views:**  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Ruthikaj&color=blue&style=flat-square">
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 #### 🔹 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,c++,python,java,javascript&theme=dark" />
 </p>  
 
 #### 🔹 Web Development  
