@@ -10,10 +10,9 @@
 🔍 Passionate about **problem-solving**, **machine learning**, and **building impactful tech solutions**  
 
 - 💻 **Full-Stack Development**: Expertise in **React, Node.js, Express.js, MongoDB, and RESTful APIs**  
-- 🤖 **AI & ML**: Working on **Deep Learning, Computer Vision, and Federated Learning**  
-- ☁️ **Cloud & DevOps**: Exploring **AWS, Docker, Kubernetes, CI/CD Pipelines**  
-- 🔢 **Big Data Analytics**: Hands-on with **Hadoop, Spark, and Data Pipelines**  
-- 📈 **Competitive Programming**: Active on **LeetCode & Codeforces**  
+- 🤖 **AI & ML**: Working on **Deep Learning,NLP,Generative AI and Federated Learning**  
+- ☁️ **Cloud & DevOps**: Exploring **AWS, Docker, Kubernetes, CI/CD Pipelines**   
+- 📈 **Competitive Programming**: Active on **LeetCode & Hackerrank**  
 
 ---
 
@@ -25,7 +24,7 @@
 </p>  
 
 🔸 **LeetCode Progress:**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Montserrat&ext=heatmap)  
+![LeetCode Stats](https://leetcode.com/u/Ruthikareck/?theme=dark&font=Montserrat&ext=heatmap)  
 
 🔹 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)  
