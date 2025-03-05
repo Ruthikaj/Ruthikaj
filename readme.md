@@ -76,6 +76,6 @@
 ## 🚀 Keep Coding & Innovating! 🔥  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400px">
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px">
 
 </p>
